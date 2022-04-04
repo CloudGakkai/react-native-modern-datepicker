@@ -1,6 +1,6 @@
 {
   "name": "@cloudgakkai/react-native-datepicker",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A customizable calendar, time & month picker for React Native (including Persian Jalaali calendar & locale)",
   "main": "src/index.js",
   "scripts": {
@@ -50,11 +50,11 @@
     "react-native": ">=0.59"
   },
   "devDependencies": {
-    "prettier": "^1.18.2",
     "@babel/core": "^7.5.5",
     "@babel/runtime": "^7.5.5",
     "@react-native-community/eslint-config": "^0.0.5",
     "eslint": "^6.3.0",
-    "metro-react-native-babel-preset": "^0.56.0"
+    "metro-react-native-babel-preset": "^0.56.0",
+    "prettier": "^1.18.2"
   }
 }
